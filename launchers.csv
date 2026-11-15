@@ -1,0 +1,28 @@
+Provider,Launcher,Spaceport,Country,Site latitude °,Orbit families,Min inclination °,Max inclination °,Min altitude km,Max altitude km,Rideshare minimum USD,Included kg,Extra USD/kg,Dedicated USD,Commercial status,Evidence / limitation
+SpaceX,Falcon 9 Transporter,Vandenberg,USA,34.7,"SSO,Polar",90,110,400,800,350000,50,7000,70000000,2028: unconfirmed,Public reference ~$350k/50kg; future slots must be confirmed
+SpaceX,Falcon 9 Bandwagon,Cape Canaveral,USA,28.5,Mid-LEO,40,55,400,700,450000,50,9000,70000000,2028: unconfirmed,45-degree-class opportunities; price assumed
+Arianespace,Vega-C SSMS,Kourou,French Guiana,5.2,"SSO,Polar,Mid-LEO",55,110,350,900,650000,50,11000,40000000,RFQ required,Indicative only; shared mission depends on manifest
+Arianespace,Ariane 6 rideshare,Kourou,French Guiana,5.2,"SSO,Polar,Mid-LEO",45,110,350,1000,850000,50,12000,100000000,RFQ required,Indicative; not a standing CubeSat service
+Rocket Lab,Electron Mahia,Mahia,New Zealand,39.3,"SSO,Polar,Mid-LEO",39,120,300,800,850000,25,18000,9500000,RFQ required,Dedicated estimate; shared opportunity not guaranteed
+Rocket Lab,Electron Wallops,Wallops,USA,37.9,Mid-LEO,38,60,300,700,850000,25,18000,9500000,RFQ required,Launch corridor screening only
+NSIL / ISRO,PSLV,Sriharikota,India,13.7,"SSO,Polar,Mid-LEO",45,110,350,900,550000,50,9500,28000000,RFQ required,Indicative pricing; specific inclination requires confirmation
+NSIL / ISRO,SSLV,Sriharikota,India,13.7,"SSO,Polar,Mid-LEO",45,110,350,650,450000,30,10000,8500000,RFQ required,Indicative; payload performance varies by orbit
+PLD Space,MIURA 5,Kourou,French Guiana,5.2,"SSO,Polar,Mid-LEO",45,110,350,700,700000,50,12000,15000000,DEVELOPMENT — 2027 test planned,Indicative only; no verified rideshare offer; PLD 2026 update
+Isar Aerospace,Spectrum,Andoya,Norway,69.3,"SSO,Polar",85,110,350,850,750000,50,13000,15000000,EARLY OPERATIONS — RFQ,Orbital flight Sep 2026; 2028 SEOPS multi-payload announced
+Firefly Aerospace,Alpha Vandenberg,Vandenberg,USA,34.7,"SSO,Polar",85,110,300,800,850000,50,14000,17000000,OPERATIONAL — RFQ,Multi-payload support; launch campaign required
+Firefly Aerospace,Alpha Wallops,Wallops,USA,37.9,Mid-LEO,38,60,300,700,850000,50,14000,17000000,SITE / MANIFEST VERIFY,Do not assume active rideshare campaign
+Blue Origin,New Glenn,Cape Canaveral,USA,28.5,Mid-LEO,28.5,65,300,1200,950000,50,15000,95000000,RFQ — SECONDARY PAYLOAD UNCONFIRMED,Not a standing 6U/8U rideshare product; conservative provisional corridor
+Rocket Factory Augsburg,RFA ONE,SaxaVord,United Kingdom,60.8,"SSO,Polar",85,110,350,850,650000,50,12000,12000000,DEVELOPMENT — RFQ,Orbital and commercial readiness to verify
+Orbex,Prime,Sutherland,United Kingdom,58.5,"SSO,Polar",85,110,350,750,650000,30,15000,11000000,DEVELOPMENT — RFQ,Launch site and readiness to verify
+Skyrora,Skyrora XL,SaxaVord,United Kingdom,60.8,"SSO,Polar",85,110,350,700,650000,30,15000,12000000,DEVELOPMENT — RFQ,Conceptual performance and pricing
+HyImpulse,SL1,European site TBD,Other,55,"SSO,Polar",85,110,350,700,650000,30,15000,12000000,DEVELOPMENT — SITE TBD,Site not contracted; provisional only
+Stoke Space,Nova,Cape Canaveral,USA,28.5,Mid-LEO,28.5,65,300,1100,900000,50,14000,60000000,DEVELOPMENT — RFQ,Rideshare interface and launch manifest unverified
+Rocket Lab,Neutron,Wallops,USA,37.9,Mid-LEO,38,65,300,1000,850000,50,13000,50000000,DEVELOPMENT — RFQ,No confirmed CubeSat rideshare service
+JAXA / Space One,KAIROS,Kii Spaceport,Japan,33.6,"SSO,Polar",85,110,350,700,650000,30,14000,10000000,DEVELOPMENT — RFQ,Future access and availability uncertain
+JAXA / IHI,Epsilon S,Uchinoura,Japan,31.3,"SSO,Polar",85,110,350,900,750000,50,14000,35000000,DEVELOPMENT — RFQ,Program status and rideshare opportunities uncertain
+CAS Space,Kinetica-1,Jiuquan,China,41,"SSO,Polar,Mid-LEO",45,110,350,900,650000,50,12000,20000000,ACCESS / EXPORT RESTRICTIONS,May be inaccessible for European missions; regulatory check mandatory
+Galactic Energy,Ceres-1,Jiuquan,China,41,"SSO,Polar,Mid-LEO",45,110,350,800,650000,50,12000,12000000,ACCESS / EXPORT RESTRICTIONS,May be inaccessible for European missions; regulatory check mandatory
+LandSpace,Zhuque-2,Jiuquan,China,41,"SSO,Polar,Mid-LEO",45,110,350,900,750000,50,13000,25000000,ACCESS / EXPORT RESTRICTIONS,Rideshare offering and regulatory eligibility unconfirmed
+Innospace,HANBIT-Nano,Alcantara,Brazil,2.3,"SSO,Polar,Mid-LEO",45,110,300,700,650000,30,13000,11000000,DEVELOPMENT — RFQ,Service maturity and launch-site agreement unconfirmed
+ABL Space Systems,RS1,Kodiak,USA,57.4,"SSO,Polar",85,110,350,750,650000,30,14000,12000000,PROGRAM STATUS VERIFY,Do not assume future commercial availability
+MHI,H3 rideshare,Tanegashima,Japan,30.4,"SSO,Polar,Mid-LEO",45,110,350,900,750000,50,13000,55000000,RFQ required,Indicative; no standing orbit/price guarantee
